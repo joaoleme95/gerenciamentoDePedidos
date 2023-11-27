@@ -17,7 +17,7 @@ Este exercício envolve a criação de um sistema simples de gerenciamento de ba
     - Relacionamento de chave estrangeira com CLIENTES(ID_Cliente)
     - Exemplo de dados incluído
 
-### Procedure Armazenado
+### Stored Procedure
 
 3. **Procedure Inserir_Pedidos:**
     - Insere um novo pedido na tabela PEDIDOS
